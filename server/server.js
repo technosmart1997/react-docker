@@ -12,6 +12,14 @@ const data = [
     {
         name : "Mukul",
         age : "51"
+    },
+    {
+        name : "Ayush",
+        age : "21"
+    },
+    {
+        name : "Mukul",
+        age : "51"
     }
 ]
     
